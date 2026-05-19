@@ -112,6 +112,11 @@ See the patches/ directory.
 - EU868 channel plan support
 - LoRa Basics Station (authenticated/encrypted connections)
 - ChirpStack integration guide
+- Ability to select one of the more popular LNS or add your own
+- Mine / forward Helium? Why not?
+- Add other regions / granular radio & freq settings and customizations that are WAY over my head
+- Integrate with Meshcore and Meshtastic functionality in paralell?
+- Make sure this works with MQTT on the RUTX11 for data-to-server
 
 ## Credits
 
