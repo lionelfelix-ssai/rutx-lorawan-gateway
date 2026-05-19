@@ -5,6 +5,11 @@ NOTE: THIS WAS TESTED ON RAK7371 WisGate Developer Base US 915 Mhz SKU: 716039 f
 https://store.rokland.com/products/rakwireless-rak7371-wisgate-developer-base-us-915-mhz-sku-716039
 
 **This is believed to be the first documented implementation of a Teltonika RUTX-series router functioning as a LoRaWAN gateway via USB concentrator.**
+This is the early but working deployment. It was set up specifically to work with The Things Network but can easily be adapted to any LNS. 
+
+## Why
+
+Many companies make a LoRaWAN gateway with 4G/5G. Some even have local NodeRed and Chirpstack. I wanted something that was much more streamlined to receive LoRaWAN and forward to TTN because my IoT workflow has payload decoding at TTN and all I want the gateway to do is forward the packets. Teltonika has the industry's best cloud management of endpoints which allows for thousands of devices and incredible control. At scale, Teltonika is enterprise level but even for 3 units, the ease of use is compelling. Teltonika also supports a massive amount of VPNs like Tailscale which allows for the creation of powerful IoT overlay networks. RAK innovates in realtime and their offerings are extremely compelling. The mating of the two is obvious. The RUTX11 includes industrial protocols and adds the BLE layer which completes the industrial IoT circle. 
 
 ## What This Does
 
