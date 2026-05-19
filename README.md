@@ -16,6 +16,7 @@ One device handles LTE/Ethernet backhaul, BLE, WiFi, AND LoRaWAN gateway -- no s
 
 - Teltonika RUTX11 (firmware RUTX_R_00.07.x)
 - RAK7371 WisGate Developer Base (US915 for North America, EU868 for Europe)
+- USA: https://store.rokland.com/products/rakwireless-rak7371-wisgate-developer-base-us-915-mhz-sku-716039
 - USB-C to USB-A cable (included with RAK7371)
 
 ## Why the RUTX11
