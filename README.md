@@ -125,3 +125,7 @@ Developed by Lionel Felix (StructureSense.ai) in collaboration with Claude (Anth
 ## License
 
 MIT -- see LICENSE.
+
+##
+
+THE AUDACITY - I literally have no clue what I'm doing and it is GLORIOUS. The fact that this works is hilarious and also a sea-change for what we are capable of with AI. Want to help? Great. Help. Want to be mad about something, pound sand, not interested, instantly blocked, mocked and gummy-dicks sent to your mom. I wake up every day and fix shit. I invent solutions for big problems daily. It's messy and fun and moves the ball forward. Maybe you want to be part of the revolution... Were weird, come... one of us... one of us...
