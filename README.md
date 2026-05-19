@@ -1,6 +1,8 @@
 # rutx-lorawan-gateway
 
 Turn a Teltonika RUTX11 into an 8-channel LoRaWAN gateway using a RAK7371 USB concentrator.
+NOTE: THIS WAS TESTED ON RAK7371 WisGate Developer Base US 915 Mhz SKU: 716039 from 
+https://store.rokland.com/products/rakwireless-rak7371-wisgate-developer-base-us-915-mhz-sku-716039
 
 **This is believed to be the first documented implementation of a Teltonika RUTX-series router functioning as a LoRaWAN gateway via USB concentrator.**
 
