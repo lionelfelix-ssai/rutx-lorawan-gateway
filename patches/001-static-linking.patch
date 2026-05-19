@@ -1,0 +1,13 @@
+Description: Link lora_pkt_fwd statically for musl compatibility on RutOS
+
+--- a/packet_forwarder/Makefile
++++ b/packet_forwarder/Makefile
+@@ -42,7 +42,7 @@
+ LIB_DIR  = ../libloragw
+ LIB_DIR2 = ../libtools
+ 
+-LIBS := -lloragw -ltinymt32 -lparson -lbase64 -lrt -lpthread -lm
++LIBS := -static -lloragw -ltinymt32 -lparson -lbase64 -lrt -lpthread -lm
+ 
+ ### Targets
+ 

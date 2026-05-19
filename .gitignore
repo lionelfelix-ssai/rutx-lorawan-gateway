@@ -1,0 +1,11 @@
+*.o
+*.a
+*.ipk
+lora_pkt_fwd
+chip_id
+sdk/
+src/
+build/
+.DS_Store
+*.swp
+*~

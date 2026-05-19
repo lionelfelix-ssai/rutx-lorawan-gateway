@@ -1,0 +1,4 @@
+Description: Remove /dev/ttyS0 GPS reference from US915 USB config.
+The RUTX11 does not have a GPS on ttyS0.
+
+Manually apply: sed -i 's|/dev/ttyS0||' packet_forwarder/global_conf.json.sx1250.US915.USB
